@@ -1,4 +1,4 @@
-# DIO Resumo Código com Git e GitHub
+# DIO Projeto QA2
 
 
 
